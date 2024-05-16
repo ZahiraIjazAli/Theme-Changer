@@ -1,0 +1,10 @@
+.container{
+    justify-content: center;
+    padding-top: 2%;
+}
+.heading{
+    justify-content: center;
+    justify-items: center;
+    font-weight: bolder;
+    font-size:x-large;
+}
